@@ -95,7 +95,7 @@ _[One-line description of the project.]_
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oasafdinç)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oasafdinc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oasafdinc@gmail.com)
 <!-- [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](INSERT_PERSONAL_SITE_URL)  
 
