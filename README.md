@@ -5,7 +5,7 @@
 
 <!-- ![Banner](INSERT_BANNER_IMAGE_URL_HERE) -->
 
----
+----
 
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
@@ -14,7 +14,7 @@
 # 👋 Hi, I'm Asaf 
 **Computer Programming Student — Building user-centric interfaces rooted in modern web standards.**
 
----
+----
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
@@ -23,7 +23,7 @@
 ## ✨ About Me 
 A Computer Programming student dedicated to developing functional projects within the HTML, CSS, and JavaScript ecosystem. Focused on blending technical proficiency with logical reasoning to create sustainable interfaces while maintaining a solution-oriented discipline in collaborative environments. Committed to placing clean code architecture and accessibility principles at the heart of every project.
 
----
+----
 
 <!-- ============================= -->
 <!--         TECH & TOOLS          -->
@@ -46,7 +46,7 @@ A Computer Programming student dedicated to developing functional projects withi
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 </p>
 
----
+----
 
 <!-- ============================= -->
 <!--           MY PROJECTS         -->
