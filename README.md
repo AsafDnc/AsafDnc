@@ -37,7 +37,6 @@ A Computer Programming student dedicated to developing functional projects withi
   <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Algorithms" />
 </p>
 
-> **Note:** Recently completed "Introduction to AI and Algorithms" at BTK Academy.
 
 ## Socials
 
