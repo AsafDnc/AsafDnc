@@ -4,7 +4,9 @@
 ----
 
 ##  About Me  
-A Computer Programming student dedicated to developing functional projects within the HTML, CSS, and JavaScript ecosystem. Focused on blending technical proficiency with logical reasoning to create sustainable interfaces while maintaining a solution-oriented discipline in collaborative environments. Committed to placing clean code architecture and accessibility principles at the heart of every project.
+I am a Computer Programming student specialized in Mobile Development, with a primary focus on building high-performance, cross-platform applications using Flutter and Supabase.
+
+My development philosophy is rooted in Feature-First Clean Architecture, ensuring that every project is scalable, maintainable, and robust. I am deeply committed to creating accessible, user-centric interfaces that provide seamless digital experiences. Beyond core development, I am actively exploring the integration of AI and Algorithms to build smarter, more intuitive mobile solutions.
 
 ----
 
