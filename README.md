@@ -13,7 +13,6 @@ A Computer Programming student dedicated to developing functional projects withi
 ###  Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI_Pair_Programming-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="AI Programming" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
