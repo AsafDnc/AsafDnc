@@ -6,7 +6,7 @@
 ##  About Me  
 I am a Computer Programming student specialized in Mobile Development, with a primary focus on building high-performance, cross-platform applications using Flutter and Supabase.
 
-My development philosophy is rooted in Feature-First Clean Architecture, ensuring that every project is scalable, maintainable, and robust. I am deeply committed to creating accessible, user-centric interfaces that provide seamless digital experiences. Beyond core development, I am actively exploring the integration of AI and Algorithms to build smarter, more intuitive mobile solutions.
+My development philosophy is rooted in Clean Architecture, ensuring that every project is scalable, maintainable, and robust. I am deeply committed to creating accessible, user-centric interfaces that provide seamless digital experiences. Beyond core development, I am actively exploring the integration of AI and Algorithms to build smarter, more intuitive mobile solutions.
 
 ----
 
