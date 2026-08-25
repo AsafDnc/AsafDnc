@@ -69,10 +69,10 @@ I follow **Clean Architecture** principles to keep projects scalable and maintai
 
 > Built and maintained together with my development partner.
 
-** RandevumPlus ** — Appointment & booking management SaaS
+**RandevumPlus** — Appointment & booking management SaaS
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Sentry` `Redis`
 
-** Solizone Bilişim ** — Business management platform with payments & QR-based workflows
+**Solizone Bilişim** — Business management platform with payments & QR-based workflows
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `iyzipay` `Vercel Blob` `Sentry`
 
 ---
