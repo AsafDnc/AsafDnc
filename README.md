@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Asaf 👋
+# Hi, I'm Asaf 
 
 **Software Developer — building web & mobile products with an AI-native development workflow.**
 
@@ -15,11 +15,11 @@
 
 Computer Programming student building web and mobile products through an **AI-native development workflow** — directing Claude and Cursor to turn designs and requirements into working Next.js/React interfaces and Flutter apps. Professional mobile experience with **Flutter/Supabase**, plus hands-on ownership of the product side on the web projects I co-run: UI/UX design, social media, and growth.
 
-- 🖥️ Building web products with Next.js & React, AI-native workflow (Claude, Cursor)
-- 📱 Professional Flutter/mobile development experience (Supabase backend)
-- 🎨 UI/UX design in Figma, translated into working interfaces
-- 📣 Product growth: social media setup, content design, marketing
-- 🌱 Deepening core programming fundamentals + AI & algorithms
+-  Building web products with Next.js & React, AI-native workflow (Claude, Cursor)
+-  Professional Flutter/mobile development experience (Supabase backend)
+-  UI/UX design in Figma, translated into working interfaces
+-  Product growth: social media setup, content design, marketing
+-  Deepening core programming fundamentals + AI & algorithms
 
 ---
 
