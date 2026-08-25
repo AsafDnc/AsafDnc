@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Asaf 
+# Hi, I'm Asaf 👋
 
-**Full-Stack Developer — building production web products, with a mobile development background.**
+**Software Developer — building web & mobile products with an AI-native development workflow.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oasafdinc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oasafdinc@gmail.com)
@@ -13,40 +13,24 @@
 
 ### About Me
 
-Computer Programming student focused primarily on **full-stack web development** — building and maintaining production SaaS products with **Next.js**, **TypeScript**, and **PostgreSQL** alongside a development partner. I also come from a mobile development background (**Flutter** / **Supabase**), which still informs how I think about cross-platform product design.
+Computer Programming student building web and mobile products through an **AI-native development workflow** — directing Claude and Cursor to turn designs and requirements into working Next.js/React interfaces and Flutter apps. Professional mobile experience with **Flutter/Supabase**, plus hands-on ownership of the product side on the web projects I co-run: UI/UX design, social media, and growth.
 
-I follow **Clean Architecture** principles to keep projects scalable and maintainable, and I'm currently deepening my knowledge of **AI integration** and **algorithms** to build smarter, more capable applications.
-
--  Building & maintaining production web apps with Next.js, TypeScript, and PostgreSQL
--  Co-developing and running live SaaS products with a partner — auth, payments, monitoring included
--  Mobile development background in Flutter & Supabase
--  Currently exploring AI-assisted app development & algorithms
+- 🖥️ Building web products with Next.js & React, AI-native workflow (Claude, Cursor)
+- 📱 Professional Flutter/mobile development experience (Supabase backend)
+- 🎨 UI/UX design in Figma, translated into working interfaces
+- 📣 Product growth: social media setup, content design, marketing
+- 🌱 Deepening core programming fundamentals + AI & algorithms
 
 ---
 
 ### Tech Stack
 
-**Web & Backend**
+**Web**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Data & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Auth, Payments & Monitoring**
-
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3C4858?style=for-the-badge&logo=oauth&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 **Mobile**
 
@@ -54,31 +38,40 @@ I follow **Clean Architecture** principles to keep projects scalable and maintai
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Languages & Tools**
+**AI-Native Development**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+**Design & Product**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**Tools & Languages**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-> Built and maintained together with my development partner.
+> Co-built with my development partner — my role: UI/UX, frontend build (AI-native workflow), social media & marketing.
 
-**RandevumPlus** — Appointment & booking management SaaS
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Sentry` `Redis`
+**🗓️ RandevumPlus** — Appointment & booking management SaaS
+`Next.js` `UI/UX` `Marketing` `Roadmap`
 
-**Solizone Bilişim** — Business management platform with payments & QR-based workflows
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `iyzipay` `Vercel Blob` `Sentry`
+**🏢 Solizone Bilişim** — Business management platform
+`Next.js` `UI/UX` `Social Media` `Content Design`
 
 ---
 
 <div align="center">
 
-*Open to collaborating on full-stack & mobile projects.*
+*Open to collaborating on web & mobile projects.*
 
 </div>
