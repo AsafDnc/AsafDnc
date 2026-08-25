@@ -1,52 +1,84 @@
-#  Hi, I'm Asaf  
-**Computer Programming Student — Building user-centric interfaces rooted in modern web standards.**
+<div align="center">
 
-----
+# Hi, I'm Asaf 👋
 
-##  About Me  
-I am a Computer Programming student specialized in Mobile Development, with a primary focus on building high-performance, cross-platform applications using Flutter and Supabase.
+**Mobile & Full-Stack Developer — building cross-platform apps and production web products.**
 
-My development philosophy is rooted in Clean Architecture, ensuring that every project is scalable, maintainable, and robust. I am deeply committed to creating accessible, user-centric interfaces that provide seamless digital experiences. Beyond core development, I am actively exploring the integration of AI and Algorithms to build smarter, more intuitive mobile solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oasafdinc)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oasafdinc@gmail.com)
 
-----
+</div>
 
-## Tech & Tools  
+---
 
-###  Tech Stack
+### About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+Computer Programming student specializing in mobile development, working primarily with **Flutter** and **Supabase**. Alongside mobile, I build production-grade **Next.js / TypeScript** web applications with a partner — real products with authentication, payments, and background infrastructure, not just prototypes.
 
-----
+I follow **Clean Architecture** principles to keep projects scalable and maintainable, and I'm currently deepening my knowledge of **AI integration** and **algorithms** to build smarter, more intuitive apps.
 
-###  Currently Learning & Certified
+- 🎓 Computer Programming student — Mobile Development focus
+- 🛠️ Building with Flutter, Supabase, and Next.js in production
+- 🤝 Co-building and maintaining live SaaS products with a partner
+- 🌱 Currently exploring AI-assisted app development & algorithms
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Algorithms" />
-</p>
+---
 
+### Tech Stack
 
-## Socials
+**Mobile**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/oasafdinc" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:oasafdinc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Web & Backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Auth, Payments & Monitoring**
+
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-3C4858?style=for-the-badge&logo=oauth&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+**Languages & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### Featured Projects
+
+> Built and maintained together with my development partner.
+
+**🗓️ RandevumPlus** — Appointment & booking management SaaS
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Sentry` `Redis`
+
+**🏢 Solizone Bilişim** — Business management platform with payments & QR-based workflows
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `iyzipay` `Vercel Blob` `Sentry`
+
+---
+
+<div align="center">
+
+*Open to collaborating on mobile & full-stack projects.*
+
+</div>
