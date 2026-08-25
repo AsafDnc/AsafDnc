@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Asaf 👋
+# Hi, I'm Asaf 
 
 **Full-Stack Developer — building production web products, with a mobile development background.**
 
@@ -17,10 +17,10 @@ Computer Programming student focused primarily on **full-stack web development**
 
 I follow **Clean Architecture** principles to keep projects scalable and maintainable, and I'm currently deepening my knowledge of **AI integration** and **algorithms** to build smarter, more capable applications.
 
-- 💻 Building & maintaining production web apps with Next.js, TypeScript, and PostgreSQL
-- 🤝 Co-developing and running live SaaS products with a partner — auth, payments, monitoring included
-- 📱 Mobile development background in Flutter & Supabase
-- 🌱 Currently exploring AI-assisted app development & algorithms
+-  Building & maintaining production web apps with Next.js, TypeScript, and PostgreSQL
+-  Co-developing and running live SaaS products with a partner — auth, payments, monitoring included
+-  Mobile development background in Flutter & Supabase
+-  Currently exploring AI-assisted app development & algorithms
 
 ---
 
@@ -69,10 +69,10 @@ I follow **Clean Architecture** principles to keep projects scalable and maintai
 
 > Built and maintained together with my development partner.
 
-**🗓️ RandevumPlus** — Appointment & booking management SaaS
+** RandevumPlus ** — Appointment & booking management SaaS
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Sentry` `Redis`
 
-**🏢 Solizone Bilişim** — Business management platform with payments & QR-based workflows
+** Solizone Bilişim ** — Business management platform with payments & QR-based workflows
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `iyzipay` `Vercel Blob` `Sentry`
 
 ---
